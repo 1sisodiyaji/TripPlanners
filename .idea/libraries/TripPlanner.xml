@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="TripPlanner">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/src/TripPlanner/mysql-connector-java-8.0.28.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/TripPlanner/rs2xml.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
